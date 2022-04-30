@@ -2,7 +2,7 @@ EpiCas-DL
 ===
 EpiCas-DL is a deeplearning based prediction tool for the sgRNA editing effects of CRISPR/dCas editing system.The tool combined four types of epigenetic features, including methylation, gene expression, chromatin accessibility and the distance between target site and transcription start site, to improve the prediction of our tool.
 
-1.System Requirements:
+System Requirements:
 ---
     Red Hat 4.8.5-36
     python 3.7
@@ -13,10 +13,15 @@ EpiCas-DL is a deeplearning based prediction tool for the sgRNA editing effects 
          pybedtools 0.8.2
          GPyOpt 1.2.6
 
-2.Quickly Start
-    
+Installation
+---    
     
       git clone https://github.com/yangqianq/EpiCas-DL.git
+      
+Useage
+---
+      python example.py -sequence [] -model [] -chrom [] -start [] -end [] -pamCoord [] -transcription [] -gene [] -cell_line []
+
       
   
                 
