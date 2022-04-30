@@ -20,9 +20,16 @@ Installation
       
 Useage
 ---
-      python example.py -sequence [input-sequence] -model [path-to-save-model] -chrom [chromosome-of-input-sequence] -start [start-position-of-input-sequence] -end [end-position-of-input-sequence] -pamCoord [pam-position] -transcription [transcription-of-input-sequence] -gene [gene-of-input-sequence] -cell_line [cell-line-of-input-sequence]
+      python example.py -sequence [input-sequence] -model [path-to-save-seqmodel]
+      python example.py -sequence GGGCCCAGATCCCTCTATGTGCTCGAAGCAGGTGGACCCC -model CRISPRoff_seq
+      
+      python example.py -sequence [input-sequence] -model [path-to-save-epimodel] -chrom [chromosome-of-input-sequence] -start [start-position-of-input-sequence] -end [end-position-of-input-sequence] -pamCoord [pam-position] -transcription [transcription-of-input-sequence] -gene [gene-of-input-sequence] -cell_line [cell-line-of-input-sequence]
       python example.py -sequence GGGCCCAGATCCCTCTATGTGCTCGAAGCAGGTGGACCCC -model CRISPRoff_epi -chrom chr12 -start 100592057 -end 100592096 -pamCoord 100592087 -transcript P1P2 -gene ACTR6 -cell_line Hek293t
       
-  
+      
+Note
+---
+
+1.
                 
                 
