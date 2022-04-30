@@ -33,6 +33,7 @@ Note
 ---
 
 1.There has CRISPRoff_seq/CRISPRoff_epi/CRISPRa_seq/CRISPRa_epi four models for you. 
+
 2.We also provided a website that available at http://www.sunlab.fun:3838/EpiCas-DL.
                 
                 
