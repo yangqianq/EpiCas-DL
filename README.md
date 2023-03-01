@@ -32,7 +32,7 @@ Useage
 Note
 ---
 
-1.There has CRISPRoff_seq/CRISPRoff_epi/CRISPRa_seq/CRISPRa_epi four models for you. 
+1.There have CRISPRoff_seq/CRISPRoff_epi/CRISPRa_seq/CRISPRa_epi four models for you. 
 
 2.We provide "epi_reference" folder at "https://pan.baidu.com/s/1TbUhdmaJ8b0vhUF1Tqhuqw?pwd=ilg1".
 
