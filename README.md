@@ -37,5 +37,8 @@ Note
 2.We provide "epi_reference" folder at "https://pan.baidu.com/s/1TbUhdmaJ8b0vhUF1Tqhuqw?pwd=ilg1".
 
 3.We also provided a website that available at http://www.sunlab.fun:3838/EpiCas-DL.
+
+---
+If you have any question, please contact us at email yangqq2024@shanghaitech.edu.cn
                 
                 
